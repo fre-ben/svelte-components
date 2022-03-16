@@ -1,5 +1,5 @@
 <script>
-	import '../app.css';
+	import "$lib/style.css";
 </script>
 
 <main>
